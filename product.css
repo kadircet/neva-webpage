@@ -77,3 +77,16 @@
 }
 
 .overflow-hidden { overflow: hidden; }
+
+.div-title {
+  padding: 7px;
+}
+
+.avatar{
+  max-height: 180px;
+  max-width: 180px;
+  border: black 2px solid;
+  height:auto;
+  width: auto;
+  border-radius: 50%;
+}
